@@ -3,6 +3,8 @@ Dedicated Web3 Security Researcher specializing in smart contract security, prot
 # Private Audit Reports
 1. [Castr Protocol](https://github.com/Billyone9/Audit-Portfolio-/blob/main/Reports/Castr%20protocol.md)
 2. [Zama protocol](https://github.com/Billyone9/Audit-Portfolio-/blob/main/Reports/Zama%20Protocol.md)
+3. [Celo](https://github.com/Billyone9/Audit-Portfolio-/blob/main/Reports%2FCeloProtocol.md) 
+
 
 # Public Contest
 1. [Fluid Dex V2](https://audits.sherlock.xyz/watson/Billy19d)
