@@ -1,7 +1,9 @@
 # Manager.rebalance() Missing Group-Health Guard Allows Real CELO to Be Rebalanced Onto Unhealthy Validator Groups
 
 Submission Date:        September 16, 2026 02:03:33 PM
+
 Program Name:        cLabs Celo
+
 Asset:, StakedCelo is a liquid staking derivative of CELO
 
 Severity:        High
